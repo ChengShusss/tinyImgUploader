@@ -1,0 +1,4 @@
+endPoint: "example.com"
+accessUser: "your-user"
+accessPassword: "your-password"
+bucket: "images"
